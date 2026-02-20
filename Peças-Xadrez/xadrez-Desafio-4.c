@@ -70,7 +70,7 @@ int main() {
     /* Comparação simples */
     int escolha;
 
-    printf("\nEscolha o atributo para comparar:\n");
+    printf("\nEscolha qual peças você deseja continuar:\n");
     printf("1 - Torre\n");
     printf("2 - Rainha\n");
     scanf("%d", &escolha);
